@@ -1,0 +1,1 @@
+../../../Klarna-on-Demand/KlarnaOnDemand/KODRegistrationSettings.h

@@ -1,0 +1,28 @@
+framework module Klarna_on_Demand {
+  umbrella header "Klarna-on-Demand-umbrella.h"
+
+  export *
+  module * { export * }
+
+  private header "BDAESCBC256Cryptor.h"
+  private header "BDAESCryptor.h"
+  private header "BDCryptor.h"
+  private header "BDCryptorError.h"
+  private header "BDRSACryptor.h"
+  private header "BDRSACryptorKeyPair.h"
+  private header "BDSHA512Cryptor.h"
+  private header "NSData+Base64.h"
+  private header "NSString+Base64.h"
+  private header "BDJSON.h"
+  private header "BDJSONError.h"
+  private header "NSArray+BDJSONSerialization.h"
+  private header "NSData+BDJSONSerialization.h"
+  private header "NSDictionary+BDJSONSerialization.h"
+  private header "NSDictionary+BDParseJSON.h"
+  private header "NSObject+BDJSONSerialization.h"
+  private header "NSString+BDJSONSerialization.h"
+  private header "NSString+BDUtilities.h"
+  private header "BDError.h"
+  private header "BDLog.h"
+  private header "Jockey.h"
+}

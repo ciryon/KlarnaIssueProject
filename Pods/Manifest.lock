@@ -1,0 +1,14 @@
+PODS:
+  - Klarna-on-Demand (1.0.10):
+    - Klarna-on-Demand/Crypto (= 1.0.10)
+    - Klarna-on-Demand/JockeyJS (= 1.0.10)
+  - Klarna-on-Demand/Crypto (1.0.10)
+  - Klarna-on-Demand/JockeyJS (1.0.10)
+
+DEPENDENCIES:
+  - Klarna-on-Demand
+
+SPEC CHECKSUMS:
+  Klarna-on-Demand: c8f800ef28409969b1107be9b6bae9179c319f42
+
+COCOAPODS: 0.39.0

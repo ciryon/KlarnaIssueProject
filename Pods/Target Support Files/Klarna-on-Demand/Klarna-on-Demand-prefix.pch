@@ -1,0 +1,13 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#endif
+
+//
+// Prefix header for all source files of the 'Crypto' target in the 'Crypto' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import "BDError.h"
+    #import "BDLog.h"
+#endif

@@ -1,0 +1,6 @@
+framework module Pods_KlarnaIssueProject {
+  umbrella header "Pods-KlarnaIssueProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
